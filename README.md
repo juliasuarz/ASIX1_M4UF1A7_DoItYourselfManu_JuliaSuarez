@@ -15,12 +15,12 @@
     * Regla 3. Los hijos `h3` con padre `div` estarán subrallados.
 
     * Regla 4. Los hijos `p` con padre `div` tendrán las siguientes características:
-                - Color de texto negro.
-                - Un borde sólido de 1px de color negro.
-                - un `padding` del 1%.
-                - Su fuente de letra será ` font-family: 'Lato', sans-serif;`.
-                - Los margenes tanto izquierda como derecha tendrán un 20%.
-                - Y además un `text-align:justify;`
+* Color de texto negro.
+* Un borde sólido de 1px de color negro.
+* un `padding` del 1%.
+* Su fuente de letra será ` font-family: 'Lato', sans-serif;`.
+* Los margenes tanto izquierda como derecha tendrán un 20%.
+* Y además un `text-align:justify;`
     
     * Regla 5. La tabla tendrá un borde sólido de 1px de color negro y los margenes automáticos.
 
