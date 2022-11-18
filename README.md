@@ -33,5 +33,8 @@
     * Regla 9. Los `th` con clase `MidJng` tendrán un color negro.
 
     * Regla 10. Los `a` con clase `Link` tendrán un color azul.
+
+El resultado:
+![](RESULTADO_FINAL.png)
     
 
