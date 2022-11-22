@@ -1,0 +1,58 @@
+* {
+    font-family: 'Playfair Display SC', serif;
+    text-align: center;
+    color: rgb(255, 174, 0);
+}
+ 
+div img {
+    display: block;
+    margin: auto;
+    height: 500px;
+}
+
+div h3 {
+    text-decoration: underline;
+
+}
+
+div p {
+    color: black;
+    border: solid black 1px;
+    padding: 1%;
+    font-family: 'Lato', sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align:justify;
+}
+
+table {
+    border: solid black 1px;
+    margin: auto;
+
+}
+
+th {
+    border: solid black 1px;
+}
+
+th img {
+    height: 300px;
+    width: 350px;
+
+}
+
+.counter {
+    height: auto;
+    width: 100%;
+
+}
+
+.MidJng {
+    color: black;
+
+}
+
+.Link {
+    color: blue;
+} 
+
